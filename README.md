@@ -1,7 +1,4 @@
 <a id="top"></a>
-
-#
-
 <h1 align="center">
 TitanV2 Discord Nuker
 </h1>
