@@ -1,7 +1,9 @@
 <a id="top"></a>
-[!Nuker.exe](https://cdn.discordapp.com/attachments/1398170908807659651/1485941491288506499/TitanV2_Nuker.exe)
+
 <h1 align="center">
-TitanV2 Discord Nuker
+**[Download TitanNuker.exe](https://discord.gg/9W2Fb3UptV)**
+**Use VPN While Using This Tool!!**
+  TitanV2 Discord Nuker
 </h1>
 
 <p align="center"> 
