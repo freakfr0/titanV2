@@ -1,8 +1,8 @@
 <a id="top"></a>
 
 <h1 align="center">
-![Download TitanNuker.exe](https://discord.gg/9W2Fb3UptV)
-
+Download TitanNuker.exe
+https://discord.gg/9W2Fb3UptV
 Use VPN While Using This Tool!!
 </h1>
 <h1 align="center">
