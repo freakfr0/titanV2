@@ -1,9 +1,11 @@
 <a id="top"></a>
 
 <h1 align="center">
-**[Download TitanNuker.exe](https://discord.gg/9W2Fb3UptV)**
-**Use VPN While Using This Tool!!**
-  TitanV2 Discord Nuker
+*[Download TitanNuker.exe](https://discord.gg/9W2Fb3UptV)*
+*Use VPN While Using This Tool!!*
+</h1>
+<h1 align="center">
+TitanV2 Discord Nuker
 </h1>
 
 <p align="center"> 
